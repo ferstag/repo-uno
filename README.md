@@ -1,4 +1,4 @@
-# papa-dalto
+# primer repositorio del curso de git de dalto
 Primer repo creado en Github
 
 ## descripción
